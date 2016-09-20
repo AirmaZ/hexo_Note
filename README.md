@@ -5,3 +5,4 @@
 + 初始化：hexo init
 + 编译： hexo generate
 + 新建日志： hexo new [post] "xxx"
++ 新建页面： hexo new page "xxx"
