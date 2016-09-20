@@ -12,6 +12,8 @@ webpack是近期最火的一款模块加载器兼打包工具，它能把各种�
 
 ## Webpack安装 ##
 
+<!--more-->
+
 1. Webpack很多功能都依赖于node.js环境，所以在使用webpack前你的电脑上必须要有node.js+npm，至于这两者如何安装配置我就不说了，不在本文讨论范围内，网上有很多现成的教学。
 2. 安装分为全局安装和非全局，我们建议非全局安装的方式
   - 全局：我们常规直接使用 npm 的形式来安装Webpack：`$ npm install webpack -g`
